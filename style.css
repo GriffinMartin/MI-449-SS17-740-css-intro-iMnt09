@@ -38,6 +38,16 @@ h2 {
   padding-bottom: 35px;
 }
 
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+a:hover {
+  color: orange;
+}
+
+
 hr {
   background-color: #CF975B;
   height: 2px;
