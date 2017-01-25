@@ -5,10 +5,11 @@
 
 h1 {
   padding-top: 35px;
+  margin-bottom: -2px;
 }
 
 .tagline {
-  padding-bottom: 35px;
+  padding-bottom: 25px;
 }
 h1, .tagline {
   text-align: center;
@@ -25,6 +26,7 @@ body {
 
 h2 {
   padding-top: 35px;
+  margin-bottom: 15px;
 }
 
 .city-description {
@@ -36,6 +38,10 @@ h2 {
   background-color: white;
   padding-left: 30px;
   padding-bottom: 35px;
+}
+
+.six-photos {
+  max-width: 420px;
 }
 
 a {
@@ -55,8 +61,9 @@ hr {
   width: 440px;
   margin-left: 0px;
 }
+
 img {
   height: 50px;
-  padding-right: 15px;
-  padding-top: 15px;
+  padding-right: 10px;
+  padding-top: 10px;
 }
